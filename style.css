@@ -1,0 +1,39 @@
+#myCanvas1{
+    border: 3px solid black;
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    height: 1000px;
+    width: 500px;
+}
+
+#myCanvas2{
+    border: 3px solid black;
+    position: absolute;
+    top: 50%;
+    left: 34%;
+    transform: translate(-50%, -50%);
+    height: 1000px;
+    width: 500px;
+}
+
+#myCanvas3{
+    border: 3px solid black;
+    position: absolute;
+    top: 50%;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    height: 1000px;
+    width: 500px;
+}
+
+#myCanvas4{
+    border: 3px solid black;
+    position: absolute;
+    top: 50%;
+    left: 78%;
+    transform: translate(-50%, -50%);
+    height: 1000px;
+    width: 500px;
+}
